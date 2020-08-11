@@ -1,0 +1,42 @@
+Stanford University,Wildcard,www.stanford.edu/,"4-year, Private not-for-profit","Stanford, California",Suburb: Large,4%,"$45,693",700,-,770,740,-,800
+Harvard University,Wildcard,www.harvard.edu,"4-year, Private not-for-profit","Cambridge, Massachusetts",City: Midsize,5%,"$46,160",710,-,770,750,-,800
+The University of Texas at Austin,Target,www.utexas.edu,"4-year, Public","Austin, Texas",City: Large,32%,"$24,670",620,-,720,610,-,760
+Rice University,Wildcard,www.rice.edu,"4-year, Private not-for-profit","Houston, Texas",City: Large,9%,"$41,517",720,-,770,750,-,800
+Howard University,Safety,www.howard.edu,"4-year, Private not-for-profit","Washington, District of Columbia",City: Large,36%,"$44,624",580,-,650,550,-,630
+Texas State University,Safety,www.txstate.edu,"4-year, Public","San Marcos, Texas",City: Small,81%,"$21,358",510,-,600,500,-,580
+Rensselaer Polytechnic Institute,Reach,www.rpi.edu,"4-year, Private not-for-profit","Troy, New York",City: Small,47%,"$43,869",620,-,710,670,-,780
+University of California-Berkeley,Reach,www.berkeley.edu,"4-year, Public","Berkeley, California",City: Midsize,16%,"$32,504",650,-,740,680,-,790
+University of California-Los Angeles,Wildcard,www.ucla.edu/,"4-year, Public","Los Angeles, California",City: Large,12%,"$28,745",650,-,740,650,-,790
+Dartmouth College,Wildcard,www.dartmouth.edu,"4-year, Private not-for-profit","Hanover, New Hampshire",Town: Remote,8%,"$51,782",710,-,770,730,-,790
+Cornell University,Wildcard,www.cornell.edu,"4-year, Private not-for-profit","Ithaca, New York",City: Small,11%,"$55,817",680,-,760,720,-,800
+Columbia University in the City of New York,Wildcard,www.columbia.edu,"4-year, Private not-for-profit","New York, New York",City: Large,5%,"$42,199",700,-,770,740,-,800
+Neumont College of Computer Science,,www.neumont.edu,"4-year, Private for-profit","Salt Lake City, Utah",City: Midsize,,"$30,946",,-,,,-,
+Purdue University-Main Campus,Target,www.purdue.edu,"4-year, Public","West Lafayette, Indiana",City: Small,60%,"$21,304",590,-,690,600,-,750
+Massachusetts Institute of Technology,Wildcard,web.mit.edu/,"4-year, Private not-for-profit","Cambridge, Massachusetts",City: Midsize,7%,"$38,934",730,-,770,780,-,800
+Duke University,Wildcard,www.duke.edu,"4-year, Private not-for-profit","Durham, North Carolina",City: Large,8%,"$48,680",720,-,770,760,-,800
+University of Pennsylvania,Wildcard,www.upenn.edu,"4-year, Private not-for-profit","Philadelphia, Pennsylvania",City: Large,8%,"$41,421",700,-,760,750,-,800
+University of Southern California,Wildcard,www.usc.edu/,"4-year, Private not-for-profit","Los Angeles, California",City: Large,11%,"$52,271",670,-,740,690,-,790
+Vanderbilt University,Wildcard,www.vanderbilt.edu,"4-year, Private not-for-profit","Nashville, Tennessee",City: Large,9%,"$36,667",710,-,760,750,-,800
+Worcester Polytechnic Institute,,www.wpi.edu/,"4-year, Private not-for-profit","Worcester, Massachusetts",City: Midsize,49%,"$42,591",,-,,,-,
+University of California-Irvine,Target,www.uci.edu/,"4-year, Public","Irvine, California",City: Large,27%,"$29,841",570,-,670,600,-,750
+Northwestern University,Wildcard,www.northwestern.edu,"4-year, Private not-for-profit","Evanston, Illinois",City: Small,9%,"$43,465",700,-,760,740,-,790
+California Polytechnic State University-San Luis Obispo,Target,calpoly.edu,"4-year, Public","San Luis Obispo, California",Suburb: Small,28%,"$27,103",620,-,700,620,-,740
+University of California-Santa Cruz,Target,www.ucsc.edu/,"4-year, Public","Santa Cruz, California",City: Small,51%,"$32,720",600,-,670,600,-,710
+University of California-Davis,Target,ucdavis.edu,"4-year, Public","Davis, California",Suburb: Small,39%,"$29,734",580,-,680,590,-,730
+University of Massachusetts-Amherst,Target,www.umass.edu,"4-year, Public","Amherst, Massachusetts",Suburb: Large,64%,"$28,777",590,-,680,600,-,710
+Harvey Mudd College,Wildcard,www.hmc.edu,"4-year, Private not-for-profit","Claremont, California",Suburb: Large,14%,"$50,809",710,-,770,780,-,800
+University of Rochester,Reach,www.rochester.edu,"4-year, Private not-for-profit","Rochester, New York",City: Midsize,30%,"$44,732",640,-,720,670,-,780
+University of Pittsburgh-Pittsburgh Campus,Target,www.pitt.edu,"4-year, Public","Pittsburgh, Pennsylvania",City: Large,57%,"$31,201",630,-,700,630,-,740
+University of Hawaii at Manoa,Target,manoa.hawaii.edu/,"4-year, Public","Honolulu, Hawaii",City: Large,58%,"$21,373",540,-,630,530,-,640
+Hawaii Pacific University,Safety,www.hpu.edu/,"4-year, Private not-for-profit","Honolulu, Hawaii",City: Large,75%,"$30,762",500,-,620,490,-,590
+California State University-Northridge,Safety,www.csun.edu,"4-year, Public","Northridge, California",City: Large,59%,"$18,261",460,-,570,450,-,560
+California State University-Long Beach,Safety,www.csulb.edu,"4-year, Public","Long Beach, California",City: Large,39%,"$18,180",520,-,620,520,-,630
+University of North Texas,Safety,www.unt.edu,"4-year, Public","Denton, Texas",City: Midsize,74%,"$20,366",540,-,630,520,-,620
+The University of Texas at San Antonio,Safety,www.utsa.edu/,"4-year, Public","San Antonio, Texas",City: Large,77%,"$20,395",520,-,620,510,-,600
+Brown University,Wildcard,www.brown.edu,"4-year, Private not-for-profit","Providence, Rhode Island",City: Midsize,7%,"$43,592",700,-,770,740,-,800
+University of Colorado Boulder,Target,www.colorado.edu,"4-year, Public","Boulder, Colorado",City: Midsize,78%,"$29,055",580,-,670,560,-,690
+Colorado School of Mines,Target,www.mines.edu,"4-year, Public","Golden, Colorado",Suburb: Large,53%,"$32,024",620,-,710,540,-,750
+University of Washington-Seattle Campus,Target,www.washington.edu,"4-year, Public","Seattle, Washington",City: Large,52%,"$24,879",600,-,700,620,-,770
+Washington University in St Louis,Wildcard,www.wustl.edu,"4-year, Private not-for-profit","Saint Louis, Missouri",Suburb: Large,14%,"$45,758",720,-,760,760,-,800
+Rochester Institute of Technology,Target,www.rit.edu/,"4-year, Private not-for-profit","Rochester, New York",Suburb: Large,71%,"$40,396",600,-,690,620,-,720
+Carnegie Mellon University,Wildcard,www.cmu.edu/,"4-year, Private not-for-profit","Pittsburgh, Pennsylvania",City: Large,15%,"$52,585",700,-,760,760,-,800
