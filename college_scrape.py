@@ -100,12 +100,12 @@ for college in colleges_list:
 
     chance = ""
     try:
-        if (int(RnW25) > 720 or int(M25) > 640):
+        if (int(RnW25) > 720 or int(M25) > 710):
             chance = "Reach"
             rate = acceptance_rate[:-1]
             if(int(rate)<16):
                 chance = "Wildcard"
-        elif (int(RnW75) < 720 and int(M75) < 640):
+        elif (int(RnW75) < 720 and int(M75) < 710):
             chance = "Safety"
         else:
             chance = "Target"
